@@ -1,0 +1,8 @@
+Flask==2.2.5
+Flask-Cors==3.0.10
+torch==2.7.0+cpu  # (for CPU version, use torch==2.7.0+cu118 for CUDA)
+transformers==4.38.1
+newspaper3k==0.2.8
+PyMuPDF==1.23.6  # (for fitz)
+requests==2.31.0
+python-dotenv==1.0.0  # (for environment variables)
